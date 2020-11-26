@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio for academic and professional purposes
+# Old codes
+A compilation of some codes I made in the past.
